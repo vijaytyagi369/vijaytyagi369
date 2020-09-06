@@ -4,6 +4,8 @@
 
 ### Hi there, I'm Vijay Kumar Tyagi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+![](https://komarev.com/ghpvc/?username=vijaytyagi369&style=flat-square)
+
 - 🔭 I’m currently working on Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🥅 2020 Goals: Become a Professional Web Developer.
 - ⚡ Fun fact: I can spend an entire day in watching movies or series
